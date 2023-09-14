@@ -44,4 +44,4 @@ This Unity project is a variation of the classic Rock-Paper-Scissors game called
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/fleminjohnson/RPSLS
+      https://github.com/fleminjohnson/RPSLS.git
